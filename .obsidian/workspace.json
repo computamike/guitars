@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "0a406d2cac7f214e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a1437fa934ecf5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95bfdcd9d8e10212",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250701183746.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250701183746"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8dc8c94786ed0b1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "40f33baa9d9fe2ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "202b24fd26cbb7c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "01a1a3199c6319a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5a29803ad800a80f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2fe63420389494fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebbc6a06ff1eca4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e62db6b750404d20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Waiting for a star to fall.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Waiting for a star to fall"
+            }
+          },
+          {
+            "id": "6d7140770527bd5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Waiting for a star to fall.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Waiting for a star to fall"
+            }
+          },
+          {
+            "id": "b792c9ea27e42f32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1eba726dd6c0fb25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Waiting for a star to fall.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Waiting for a star to fall"
+            }
+          },
+          {
+            "id": "7b5018cd424ad9aa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7b5018cd424ad9aa",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "tone.md",
+    "Pasted image 20250701183746.png",
+    "Untitled/Specifications - Black Encore Guitar.md",
+    "Stable/Strings.md",
+    "Stable/Black Encore/Black Encore Guitar.md",
+    "Restoring the guitar.md",
+    "encore upgrades.md",
+    "Encore Modding & Upgrade Reference Sheet.md",
+    "Recording Notes/Waiting for a star to fall.md",
+    "Recording Notes",
+    "Excalidraw/Drawing 2025-08-12 20.57.30.excalidraw.md",
+    "Stable/Photographs/BlackEncore/Drawing 2025-08-12 20.56.36.excalidraw.md",
+    "Excalidraw",
+    "Stable/Photographs/BlackEncore/20250812_162856.jpg",
+    "Stable/Black Encore/Black Encore Repair notes.md",
+    "Stable/Photographs/BlackEncore/20250704_011111.jpg",
+    "Stable/Photographs/BlackEncore/Drawing 2025-08-12 20.55.19.excalidraw.md",
+    "Stable/Photographs/BlackEncore/20250812_162533.jpg",
+    "Stable/Photographs/BlackEncore/20250812_151955.jpg",
+    "Stable/Photographs/BlackEncore/20250812_151949.jpg",
+    "Stable/Photographs/BlackEncore/20250812_152006.jpg",
+    "Stable/Photographs/BlackEncore/20250704_011241.jpg",
+    "Stable/Photographs/BlackEncore/20250704_011219.jpg",
+    "Stable/Encore Mod sheet.md",
+    "Stable/Photographs/BlackEncore/20250812_162449.jpg",
+    "Stable/Black Encore",
+    "Welcome.md",
+    "Stable/Washburn Mercury.md",
+    "Stable/Red Encore Guitar.md",
+    "Stable/Vintage Accoustic.md",
+    "Stable/Photographs/BlackEncore",
+    "Stable/Photographs",
+    "Untitled",
+    "Stable",
+    "Stable/Encore - Red"
+  ]
+}
