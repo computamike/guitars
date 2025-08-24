@@ -25,4 +25,5 @@ The middle pickup has - at some stage - received some damage - possibly by somet
 > Pickup bottom plate pieces recovered from the guitar cavity
 
 
-
+Replacement Parts
+A replacement fully loaded scratch plate was ordered from 
