@@ -26,4 +26,9 @@ The middle pickup has - at some stage - received some damage - possibly by somet
 
 
 Replacement Parts
-A replacement fully loaded scratch plate was ordered from 
+A replacement fully loaded scratch plate was ordered from Musiclily - Musiclily 11-Hole SSS Prewired Loaded Pickguard with Single Coil Pickups Set for Fender Squier Strat Electric Guitar,4Ply Aged White Pearl
+
+> [!caption]
+> ![[51QdBKG43UL._AC_SL1200_.jpg|300]]
+> Replacement Scratchplage
+> 
