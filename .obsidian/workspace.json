@@ -4,49 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9a1437fa934ecf5b",
+        "id": "e10515e405414003",
         "type": "tabs",
         "children": [
           {
-            "id": "95bfdcd9d8e10212",
+            "id": "f01a18e4836f1795",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20250701183746.png"
+                "file": "Stable/Photographs/BlackEncore/20250820_220812.jpg"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250701183746"
-            }
-          },
-          {
-            "id": "dc49e8cc3344cd3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stable/Black Encore/Black Encore Repair notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Black Encore Repair notes"
-            }
-          },
-          {
-            "id": "9de415e5e0bbb429",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Stable/Photographs/BlackEncore/51QdBKG43UL._AC_SL1200_.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "51QdBKG43UL._AC_SL1200_"
+              "title": "20250820_220812"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,16 +178,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc49e8cc3344cd3c",
+  "active": "f01a18e4836f1795",
   "lastOpenFiles": [
+    "Stable/Photographs/BlackEncore/20250820_220829.jpg",
+    "Stable/Photographs/BlackEncore/20250820_223740.jpg",
+    "Stable/Black Encore/Black Encore Repair notes.md",
+    "Pasted image 20250701183746.png",
+    "Stable/Photographs/BlackEncore/20250820_220812.jpg",
     "Untitled/Specifications - Black Encore Guitar.md",
     "Stable/Vintage Accoustic.md",
-    "Stable/Black Encore/Black Encore Repair notes.md",
     "Stable/Black Encore/Black Encore Guitar.md",
     "Stable/Red Encore Guitar.md",
     "Stable/Photographs/BlackEncore/51QdBKG43UL._AC_SL1200_.jpg",
     "Black Encore Repair.md",
-    "Pasted image 20250701183746.png",
     "tone.md",
     "Stable/Strings.md",
     "Restoring the guitar.md",
@@ -231,9 +207,6 @@
     "Stable/Photographs/BlackEncore/20250812_162533.jpg",
     "Stable/Photographs/BlackEncore/20250812_151955.jpg",
     "Stable/Photographs/BlackEncore/20250812_151949.jpg",
-    "Stable/Photographs/BlackEncore/20250812_152006.jpg",
-    "Stable/Photographs/BlackEncore/20250704_011241.jpg",
-    "Stable/Photographs/BlackEncore/20250704_011219.jpg",
     "Stable/Encore Mod sheet.md",
     "Stable/Black Encore",
     "Welcome.md",

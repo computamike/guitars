@@ -26,13 +26,17 @@ The middle pickup has - at some stage - received some damage - possibly by somet
 
 
 ## 2025-08-24 Replacement Parts
-A replacement [fully loaded scratchplate](https://www.amazon.co.uk/dp/B07V333M5J?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) was ordered from Musiclily - Musiclily 11-Hole SSS Prewired Loaded Pickguard with Single Coil Pickups Set for Fender Squier Strat Electric Guitar,4Ply Aged White Pearl
+A replacement [fully loaded scratch plate](https://www.amazon.co.uk/dp/B07V333M5J?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) was ordered from Musiclily - Musiclily 11-Hole SSS Prewired Loaded Pickguard with Single Coil Pickups Set for Fender Squier Strat Electric Guitar,4Ply Aged White Pearl
 
 > [!caption]
 > ![[51QdBKG43UL._AC_SL1200_.jpg|300]]
-> Replacement Scratchplate
+> Replacement Scratch plate
 
 Initial investigations revealed that some of the hole of the scratch plate do not align with the existing holes, but a good majority of them do.  Comparing the new scratch plate with the old revealed that there would need to be some modification to the neck cutaway - as the neck cannot be used directly.  I have decided that there is probably less work in modifying the new scratch plate, rather than moving the electrics to the old scratch plate
+
+> [!caption]
+> ![[20250820_223740.jpg|300]]
+> Aligning the old and new scratch plate reveals the material to be removed.  Also notice that the old scratch plate has flaking - potentially from filing.
 
 The existing electrics have been removed from the old scratch plate and have been stored in a zip lock bag.  Hopefully these might be still useful as spares - but in all likelihood won't be required when the new scratch plate is installed.
 
