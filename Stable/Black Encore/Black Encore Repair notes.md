@@ -34,7 +34,9 @@ A replacement [fully loaded scratchplate](https://www.amazon.co.uk/dp/B07V333M5J
 
 Initial investigations revealed that some of the hole of the scratch plate do not align with the existing holes, but a good majority of them do.  Comparing the new scratch plate with the old revealed that there would need to be some modification to the neck cutaway - as the neck cannot be used directly.  I have decided that there is probably less work in modifying the new scratch plate, rather than moving the electrics to the old scratch plate
 
-The existing electrics have been removed from the old scratch plate and have been stored in a zip lock bag.  Hopefully these might be still useful as spares - but in all likelihood wont be required when the new scratch plate is installed.
+The existing electrics have been removed from the old scratch plate and have been stored in a zip lock bag.  Hopefully these might be still useful as spares - but in all likelihood won't be required when the new scratch plate is installed.
 
-### Theories about the usage of this guitar.
-Looking at the scratch plate and pickup covers reveals that they are potentially different ages.  There is sign of yellowing on the pickup that don't appear on the plate itself.  My current theory is that something damaged the scratch plate of this guitar and the electrics were transferred to a new plate.  The scratch plate and tremelo cover appear to be different plastics 
+### Theories about the history of this guitar.
+Looking at the scratch plate and pickup covers reveals that they are potentially different ages.  There is sign of yellowing on the pickup that don't appear on the plate itself.  My current theory is that something damaged the scratch plate of this guitar and the electrics were transferred to a new plate.  The scratch plate and tremello cover appear to be different plastics which - I feel - supports this theory.
+
+I believe that the electronics were moved to the new scratch plate. I believe the middle pickup was damaged after this point, as there broken pickup parts were found inside the scratch plate cavity.
