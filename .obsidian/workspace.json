@@ -11,15 +11,30 @@
             "id": "f01a18e4836f1795",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Stable/Photographs/BlackEncore/20250820_220812.jpg"
+                "file": "Stable/Black Encore/Black Encore Repair notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "20250820_220812"
+              "icon": "lucide-file",
+              "title": "Black Encore Repair notes"
+            }
+          },
+          {
+            "id": "681351c118e11078",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,13 +193,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f01a18e4836f1795",
+  "active": "681351c118e11078",
   "lastOpenFiles": [
+    "Stable/Photographs/BlackEncore/20250820_220812.jpg",
     "Stable/Photographs/BlackEncore/20250820_220829.jpg",
     "Stable/Photographs/BlackEncore/20250820_223740.jpg",
     "Stable/Black Encore/Black Encore Repair notes.md",
     "Pasted image 20250701183746.png",
-    "Stable/Photographs/BlackEncore/20250820_220812.jpg",
     "Untitled/Specifications - Black Encore Guitar.md",
     "Stable/Vintage Accoustic.md",
     "Stable/Black Encore/Black Encore Guitar.md",
