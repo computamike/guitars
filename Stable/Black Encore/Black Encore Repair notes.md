@@ -44,3 +44,4 @@ The existing electrics have been removed from the old scratch plate and have bee
 Looking at the scratch plate and pickup covers reveals that they are potentially different ages.  There is sign of yellowing on the pickup that don't appear on the plate itself.  My current theory is that something damaged the scratch plate of this guitar and the electrics were transferred to a new plate.  The scratch plate and tremello cover appear to be different plastics which - I feel - supports this theory.
 
 I believe that the electronics were moved to the new scratch plate. I believe the middle pickup was damaged after this point, as there broken pickup parts were found inside the scratch plate cavity.
+

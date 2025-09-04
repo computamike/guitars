@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Black Encore Repair notes"
             }
-          },
-          {
-            "id": "681351c118e11078",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "681351c118e11078",
+  "active": "f01a18e4836f1795",
   "lastOpenFiles": [
     "Stable/Photographs/BlackEncore/20250820_220812.jpg",
     "Stable/Photographs/BlackEncore/20250820_220829.jpg",
